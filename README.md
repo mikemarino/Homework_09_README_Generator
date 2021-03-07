@@ -14,9 +14,9 @@
 ## Description
 ![License](https://img.shields.io/badge/License-MIT-informational)
 
-Hello - This repository will serve as homework #9 submission to the UPenn LPS Coding Bootcamp. This assignment is intended to demonstrate usage of node.js to create a read-write applicaion, install third-party dependencies, and create interactive command-line applications  The program objective is to take input from a user at the Node.js CLI and use it to create a <strong>ReadMe.md</strong> template for use on future projects. 
+Hello - This repository will serve as homework #9 submission to the UPenn LPS Coding Bootcamp. This assignment is intended to demonstrate usage of node.js to create a read-write applicaion, install third-party dependencies, and create interactive command-line applications  The program objective is to take input from a user at the Node.js CLI and use it to create a <strong>ReadMe.md</strong> template for use on future projects.
 
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![picture alt](http://via.placeholder.com/200x150 "ReadMe Generator")
 
 This project may have some requeriments you need to meet in order to compile it. 
 You may need NodeJS in order to run javascript on the console and install dependecnies. You can go to the NodeJS site and follow trough the installation process.  After you get the node command on the console, you will have the node package manager npm as well. Please read the package instruction section below.
@@ -35,10 +35,10 @@ After you have it on you pc, you need to go in the console to the project folder
 > npm install
 
 ## Testing:
-No testing
+No Testing
 
 ## Contributing: 
-Mike Marino
+Mike 
 
 To contribute to < strong > Big Bad Readme generator < /strong>, follow these steps:
 
@@ -54,7 +54,7 @@ Push to the original branch:
 Create the pull request. Alternatively see the GitHub documentation on creating a pull request.
 
 ## Credits:
-
+Credit for this project goes to me and to the wonderful people at the UPenn LPS Coding Bootcamp
 ## License:
 This project uses the following license: 
 
