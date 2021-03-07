@@ -16,7 +16,7 @@
 
 Hello - This repository will serve as homework #9 submission to the UPenn LPS Coding Bootcamp. This assignment is intended to demonstrate usage of node.js to create a read-write applicaion, install third-party dependencies, and create interactive command-line applications  The program objective is to take input from a user at the Node.js CLI and use it to create a <strong>ReadMe.md</strong> template for use on future projects. 
 
-![picture alt](http: //via.placeholder.com/200x150 "Title is optional")
+![picture alt](http://via.placeholder.com/200x150 "ReadMe Generator")
 
 This project may have some requeriments you need to meet in order to compile it. 
 You may need NodeJS in order to run javascript on the console and install dependecnies. You can go to the NodeJS site and follow trough the installation process.  After you get the node command on the console, you will have the node package manager npm as well. Please read the package instruction section below.
@@ -24,10 +24,10 @@ You may need NodeJS in order to run javascript on the console and install depend
 ## Installation:
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-This program uses the <strong> Inquirer </strong> dependency to prompt questions to the user.  The user responses are then transfered to a <strong>README.md</strong> file.
+This program uses the <strong> Inquirer </strong> dependency to prompt questions to the user.  The user responses are then transfered to a <strong>README.md</strong> file.  
 
 ## Usage:
-To generat readMe
+This repository will be used to generate README.md for future projects.
 
 In order to start using the project you need to clone it to your computer. Or you can download the the zip version.
 After you have it on you pc, you need to go in the console to the project folder and execute the following command to gather all the dependencies.
@@ -54,7 +54,7 @@ Push to the original branch:
 Create the pull request. Alternatively see the GitHub documentation on creating a pull request.
 
 ## Credits:
-Credit for this project goes to me and to the wonderful people at the UPenn LPS Coding Bootcamp.
+
 ## License:
 This project uses the following license: 
 

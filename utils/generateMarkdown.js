@@ -118,7 +118,7 @@ ${renderLicenseBadge(answers.license)}
 
 ${answers.description}
 
-![picture alt](http: //via.placeholder.com/200x150 "Title is optional")
+![picture alt](http://via.placeholder.com/200x150 "${answers.title}")
 
 This project may have some requeriments you need to meet in order to compile it. 
 You may need NodeJS in order to run javascript on the console and install dependecnies. You can go to the NodeJS site and follow trough the installation process.  After you get the node command on the console, you will have the node package manager npm as well. Please read the package instruction section below.
